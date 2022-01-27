@@ -13,8 +13,8 @@ kansas international Airport is nearest airport to this location
 ### List of Items
 * Jeans
 * shirts
- * T-shirts
+  * T-shirts
 * shoes
- * Running shoes
- * Casual shoes
+  * Running shoes
+  * Casual shoes
 * Jackets and shorts
