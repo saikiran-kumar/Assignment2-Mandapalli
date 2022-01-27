@@ -21,4 +21,14 @@ kansas international Airport is nearest airport to this location
 
 [About Me](https://github.com/saikiran-kumar/Assignment2-Mandapalli/blob/main/AboutMe.md)
 
+***
+### Sport Activities which i recommend
+In this Table i recommed some sport activities to try and Location where you can find it and about the Equipment cost per person if needed for that sport/Activity.
 
+|Name of Sport/activity|Location|Cost|
+| --- | --- | --- |
+|Cricket|Bearcat Ground|10$|
+|Badminton|Recreation center|5$|
+|Basket ball|Recreation Center|0$|
+
+***
