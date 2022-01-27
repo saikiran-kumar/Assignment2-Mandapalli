@@ -18,3 +18,6 @@ kansas international Airport is nearest airport to this location
   * Running shoes
   * Casual shoes
 * Jackets and shorts
+
+[About Me]
+
