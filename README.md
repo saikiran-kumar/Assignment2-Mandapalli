@@ -19,7 +19,7 @@ kansas international Airport is nearest airport to this location
   * Casual shoes
 * Jackets and shorts
 
- Please click on this link to find about Me[About Me](https://github.com/saikiran-kumar/Assignment2-Mandapalli/blob/main/AboutMe.md)
+ Please click on this link to find about Me [About Me](https://github.com/saikiran-kumar/Assignment2-Mandapalli/blob/main/AboutMe.md)
 
 ***
 ### Sport Activities which i recommend
@@ -32,3 +32,9 @@ In this Table i recommed some sport activities to try and Location where you can
 |Basket ball|Recreation Center|0$|
 
 ***
+
+### Quotes
+> "The journey of a thousand miles begins with one step."-"Lao Tzu" .
+> "You only live once, but if you do it right, once is enough. ."-"Mae West".
+
+
