@@ -19,7 +19,7 @@ kansas international Airport is nearest airport to this location
   * Casual shoes
 * Jackets and shorts
 
-[About Me](https://github.com/saikiran-kumar/Assignment2-Mandapalli/blob/main/AboutMe.md)
+ Please click on this link to find about Me[About Me](https://github.com/saikiran-kumar/Assignment2-Mandapalli/blob/main/AboutMe.md)
 
 ***
 ### Sport Activities which i recommend
