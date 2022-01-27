@@ -33,7 +33,7 @@ In this Table i recommed some sport activities to try and Location where you can
 
 ***
 
-### Quotes
+###  Some famous Quotes
 > "The journey of a thousand miles begins with one step."-"Lao Tzu" .<br>
 > "You only live once, but if you do it right, once is enough. ."-"Mae West".
 
